@@ -2,3 +2,7 @@
 .DS_Store
 *.pyc
 .ipynb_checkpoints
+<<<<<<< Updated upstream
+=======
+*.pickle
+>>>>>>> Stashed changes
